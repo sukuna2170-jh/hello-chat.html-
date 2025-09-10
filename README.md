@@ -1,12 +1,24 @@
-# Chat Website
+# 💬 Hello Chat
 
 A simple real-time chat website where users can send and receive messages instantly.  
 Built using **HTML, CSS, and JavaScript**.
 
-## Features
-- Simple and clean UI
-- Send and receive messages
-- Frontend built for practice
+---
 
-## License
-This project is licensed under the MIT License.
+## 🌐 Live Demo
+👉 [Click here to try the live chat](https://sukuna2170.github.io/hello-chathtml/)
+
+---
+
+## ✨ Features
+- ⚡ Real-time message sending & receiving (frontend demo)
+- 🎨 Simple and clean UI
+- 📱 Responsive design (works on mobile & desktop)
+- 🛠️ Built for learning and practice
+
+---
+
+## 🚀 Getting Started
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/sukuna2170/hello-chathtml.git
